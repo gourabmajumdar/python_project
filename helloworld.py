@@ -1,2 +1,2 @@
-print("Welcome to GIT online training")
+print("Welcome to GIT online training now")
 
